@@ -1,6 +1,6 @@
 name: Technobility
 favicon: null
-layout_spectrum: 0.8739079630468041
+layout_spectrum: 0.91557
 typography_spectrum: 0.9991252415347844
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#050503'
+    - '#ffffff'
+    - '#f2c37b'
+    - '#7b5129'
+    - '#a6a5eb'
   brandStrength: 0.07187039800919592
   lightness: 0.5389293502084911
   saturation: 0.7996931383386254
